@@ -11,7 +11,6 @@ if (!function_exists("add_action")) {
 }
 
 define("WP_ADMIN_DARKM_SLUG", "_is_admin_darkm_enabled");
-define("WP_ADMIN_DARKM_CSS_FILENAME", "darkm");
 
 class WP_ADMIN_DARKM
 {
