@@ -16,7 +16,7 @@ class WP_ADMIN_DARKM
 {
     static function add_user_fields($user)
     { ?>
-        <h3><?php _e("Enable dark mode in the dashboard", "blank"); ?></h3>
+        <h3><?php _e("Enable dark mode in the dashboard", "wp-admin-darkm"); ?></h3>
 
         <table class="form-table">
             <tr class="show-admin-bar user-admin-bar-front-wrap">
